@@ -9,7 +9,10 @@ public class Conta {
     }
 
     public Double depositar(Double valor){
-        return 0.0;
+        if(valor <= 0)
+            throw new IllegalArgumentException("Valor menor ou igual a 0");
+        saldo += valor;
+        return saldo;
     }
 
     public Integer getNumero(){
