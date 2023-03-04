@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cfd0ef8-f299-4b4d-a8ec-27531b459a37" name="Changes" comment="feat: cria a classe conta">
-      <change afterPath="$PROJECT_DIR$/src/br/newtonpaiva/ui/Main.java" afterDir="false" />
+    <list default="true" id="1cfd0ef8-f299-4b4d-a8ec-27531b459a37" name="Changes" comment="feat: cria os objetos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/newtonpaiva/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/newtonpaiva/ui/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +32,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.newtonpaiva.ui.Main" />
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677281183552</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: cria os objetos">
+      <created>1677286404757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677286404757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: cria estrutura inicial" />
     <MESSAGE value="feat: cria a classe conta" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: cria a classe conta" />
+    <MESSAGE value="feat: cria os objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: cria os objetos" />
   </component>
 </project>
