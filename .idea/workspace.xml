@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cfd0ef8-f299-4b4d-a8ec-27531b459a37" name="Changes" comment="feat: cria os objetos">
+    <list default="true" id="1cfd0ef8-f299-4b4d-a8ec-27531b459a37" name="Changes" comment="feat: implementa construtores equals e hashcode">
+      <change afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Transferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/newtonpaiva/dominio/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/newtonpaiva/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/newtonpaiva/ui/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -88,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677286404757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: implementa construtores equals e hashcode">
+      <created>1677889300872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677889300872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: implementa construtores equals e hashcode">
+      <created>1677891051818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677891051818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +121,7 @@
     <MESSAGE value="feat: cria estrutura inicial" />
     <MESSAGE value="feat: cria a classe conta" />
     <MESSAGE value="feat: cria os objetos" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: cria os objetos" />
+    <MESSAGE value="feat: implementa construtores equals e hashcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implementa construtores equals e hashcode" />
   </component>
 </project>
